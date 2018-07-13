@@ -1,3 +1,7 @@
 <aura:component>
 
+    <aura:attribute name = "paramOne" type = "String"/>
+    <aura:attribute name = "paramTwo" type="String" />
+
+
 </aura:component>	
